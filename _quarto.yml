@@ -4,6 +4,8 @@ project:
 
 website:
   title: "UKCOTS 25"
+  image: images/UKCOTS_24_500_white.png
+  favicon: images/UKCOTS_24_500_white.png
   navbar:
     left:
       - href: index.qmd
